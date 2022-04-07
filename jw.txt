@@ -2,6 +2,11 @@ jwww
 07.04.2022
 <<<<<<< HEAD
 Jakub Dodupiak
+<<<<<<< HEAD
 =======
 Jakub Dominia
 >>>>>>> a766a7e (Updated)
+=======
+
+hejhej
+>>>>>>> FEATURE
